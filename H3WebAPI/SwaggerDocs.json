@@ -1,0 +1,20 @@
+{
+  "SwaggerDocs": {
+    "Definitions": [
+      {
+        "name": "internalAPI",
+        "title": "Internal Endpoints",
+        "version": "v1",
+        "description": "Gametrix Internal Endpoints",
+        "endpoint": "/swagger/internalAPI/swagger.json"
+      },
+      {
+        "name": "externalAPI",
+        "title": "External Endpoints",
+        "version": "v1",
+        "description": "Gametrix External Endpoints",
+        "endpoint": "/swagger/externalAPI/swagger.json"
+      }
+    ]
+  }
+}

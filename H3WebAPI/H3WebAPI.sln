@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "H3WebAPI", "H3WebAPI.csproj", "{E51EF440-22D3-4103-AE63-5D71FE24B062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H3WebAPI.Tests", "..\H3WebAPI.Tests\H3WebAPI.Tests.csproj", "{BAC3AB0B-64D8-4E6D-89D4-88DC1FF51ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E51EF440-22D3-4103-AE63-5D71FE24B062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51EF440-22D3-4103-AE63-5D71FE24B062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51EF440-22D3-4103-AE63-5D71FE24B062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51EF440-22D3-4103-AE63-5D71FE24B062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC3AB0B-64D8-4E6D-89D4-88DC1FF51ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC3AB0B-64D8-4E6D-89D4-88DC1FF51ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC3AB0B-64D8-4E6D-89D4-88DC1FF51ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC3AB0B-64D8-4E6D-89D4-88DC1FF51ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD85844A-C863-4700-8335-F39C25A064E8}
+	EndGlobalSection
+EndGlobal
